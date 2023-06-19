@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65088905181",
+    "project_id": "agendadmo2023",
+    "storage_bucket": "agendadmo2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65088905181:android:3c392cd632bcc16bd32034",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.dmo.app15_agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65088905181-lugtbqtpiar76vc45sr9asttkn2ppeor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSSs4mA_b-eVXd1zlyBTGwWhrB-8xLSBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65088905181-lugtbqtpiar76vc45sr9asttkn2ppeor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

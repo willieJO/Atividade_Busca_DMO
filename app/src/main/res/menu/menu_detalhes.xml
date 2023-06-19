@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/salvar_contato"
+        android:icon="@drawable/ic_save"
+        android:iconTint="@color/white"
+        android:title="Salvar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/apagar_contato"
+        android:icon="@drawable/ic_delete"
+        android:iconTint="@color/white"
+        android:title="Apagar"
+        app:showAsAction="ifRoom" />
+
+</menu>
